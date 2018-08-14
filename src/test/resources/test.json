@@ -1,0 +1,23 @@
+{
+  "swamp" : {
+    "width" : 64,
+    "height" : 64,
+    "x" : 256,
+    "y" : 128,
+    "pixelRatio" : 1
+  },
+  "cross" : {
+    "width" : 128,
+    "height" : 128,
+    "x" : 256,
+    "y" : 0,
+    "pixelRatio" : 1
+  },
+  "plane" : {
+    "width" : 256,
+    "height" : 256,
+    "x" : 0,
+    "y" : 0,
+    "pixelRatio" : 1
+  }
+}

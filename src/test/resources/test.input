@@ -1,0 +1,4 @@
+# name [width] [height] [pixelRatio]
+swamp 64 64
+cross 128 128
+plane 256 256
