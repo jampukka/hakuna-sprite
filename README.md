@@ -7,7 +7,7 @@ Output can be used for example by mapbox-gl, see: https://www.mapbox.com/mapbox-
 # Usage
 
 Example:
-java -jar hakuna-sprite.jar /mydir/my.file
+`java -jar hakuna-sprite.jar /mydir/my.file`
 
 where my.file looks like:
 ```
@@ -17,15 +17,15 @@ plane 256 256
 ```
 
 the program would then look for the following SVG files:
-/mydir/swamp.svg
-/mydir/cross.svg
-/mydir/plane.svg
+* /mydir/swamp.svg
+* /mydir/cross.svg
+* /mydir/plane.svg
 
 and would generate the following files:
-/mydir/my.png
-/mydir/my.json
-/mydir/my@2x.png
-/mydir/my@2x.json
+* /mydir/my.png
+* /mydir/my.json
+* /mydir/my@2x.png
+* /mydir/my@2x.json
 
 # Syntax for the input file
 
